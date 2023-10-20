@@ -1,6 +1,6 @@
 # Formulaire de création/édition
 
-[Formulaire de création/édition](/testdoc/img/ressources/formulaire_ressource.png)
+![Formulaire de création/édition](/testdoc/img/ressources/formulaire_ressource.png)
 
 Le formulaire de création/édition d’une ressource se présente sous cette
 forme:
