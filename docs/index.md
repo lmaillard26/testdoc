@@ -4,9 +4,9 @@
  * Utilisateurs
   * Créer un utilisateur
 * Ressources
- * [Formulaire de création/édition](/testdoc/ressources/formulaire_ressource)
+ * [Formulaire de création/édition](./formulaire_ressource)
  * Contenu
-  * [Créer un contenu](/testdoc/ressources/contenu/creer)
+  * [Créer un contenu](./contenu_creer)
   * Éditer un contenu
  * Média
   * Créer un média
